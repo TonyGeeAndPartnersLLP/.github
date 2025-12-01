@@ -8,9 +8,6 @@ Before submitting your pull request, please ensure your changes meet the followi
 - [ ] **No personal data included**  
   Ensure the code does not include personal data such as home addresses, private emails, or any sensitive information.
 
-- [ ] **Builds and passes all tests**  
-  Confirm the code compiles successfully and tests pass.
-
 - [ ] **Changes make sense for the project**  
   Review your updates to ensure they are relevant and appropriate for the project’s goals.
 
